@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+.env
+API_Test_Report.pdf
+detailed_test_results.json
+test_api_suite.py
+test_ws.py
+requirements_test.txt
+generate_pdf_report.py
+old_test_all_endpoints.py
+report.html
+report.json
